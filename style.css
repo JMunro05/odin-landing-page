@@ -94,3 +94,27 @@ button {
     border-radius: 8px;
     border: 2px solid black;
 }
+.lowmidd{
+    display: flex;
+    background-color: #E5E7EB;
+    justify-content: center;
+    padding: 100px 0;
+}
+.quote-block {
+    max-width: 800px;
+    padding: 70px;
+}
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+    margin: 0 0 20px 0;
+}
+.wise-man {
+    margin-top: auto;
+    margin-right: 50px;
+    text-align: right;
+    font-weight: bold;
+    color: #1F2937;
+}

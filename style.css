@@ -16,6 +16,20 @@ img {
     justify-content: space-around;
 }
 
+.logo {
+
+}
+
+a{
+color: #F9FAF8;
+font-size: 8px;
+text-decoration: none;
+}
+ .header-link {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+ }
 
 .upper {
 display: flex;

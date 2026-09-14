@@ -54,6 +54,7 @@ p {
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
+    margin: 0;
 }
 .about-more {
     font-size: 18px;
@@ -65,4 +66,31 @@ button {
     border-radius: 8px;
     width: 100px;
     border: none;
+}
+.uppmidd {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.uppmidd-main {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin-bottom: 8px;
+}
+.img-info-con {
+    display: flex;
+    justify-content: center;
+    gap: 75px;
+    margin-bottom: 12px;
+}
+.img-info-con p {
+    color: grey;
+    font-size: 8px;
+}
+.subimg {
+    height: 220px;
+    width: 220px;
+    border-radius: 8px;
+    border: 2px solid black;
 }

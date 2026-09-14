@@ -7,8 +7,18 @@ img {
     max-width: 500px;
 }
 
+.header {
+    display: flex;
+    background-color: #1f2937;
+    font-size: 24px;
+    color: #1f2937;
+}
+
+
 .upper {
 display: flex;
+background-color: #1f2937;
+
 }
 
 

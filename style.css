@@ -98,11 +98,11 @@ button {
     display: flex;
     background-color: #E5E7EB;
     justify-content: center;
-    padding: 100px 0;
+    padding-top: 50px;
 }
 .quote-block {
     max-width: 800px;
-    padding: 70px;
+    padding: 50px;
 }
 .quote {
     font-size: 36px;
@@ -113,8 +113,16 @@ button {
 }
 .wise-man {
     margin-top: auto;
-    margin-right: 50px;
+    margin-right: 250px;
     text-align: right;
     font-weight: bold;
     color: #1F2937;
+}
+.lower {
+    display: flex;
+
+}
+
+. lower p {
+    color: black;
 }
